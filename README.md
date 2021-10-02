@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cady-kanyu
 - 👀 I’m interested in HCI related works, focusing on sensory exploration.
 - 🌱 I’m currently learning Unity3d and Pocessing or so
-- 💞️ I’m looking to collaborate on more creative music works if i could.
+- 💞️ I’m looking to collaborate on more creative music works.
 - 📫 How to reach me: here, also email: cadychen67@outlook.com <3
 
 <!---
